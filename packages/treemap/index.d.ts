@@ -65,7 +65,7 @@ declare module '@nivo/treemap' {
             Omit<TreeMapNodeDatum, 'borderColor' | 'labelTextColor' | 'parentLabelTextColor'>
         >
         enableLabel?: boolean
-        label?: string
+        label?: string | ((node: TreeMapNodeDatum) => string)
         labelSkipSize?: number
         orientLabel?: boolean
         labelTextColor?: InheritedColorConfig<
