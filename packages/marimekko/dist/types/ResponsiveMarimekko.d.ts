@@ -1,0 +1,3 @@
+import { SvgProps } from './types';
+export declare const ResponsiveMarimekko: <RawDatum>(props: Pick<SvgProps<RawDatum>, "legends" | "fill" | "id" | "value" | "onClick" | "onMouseEnter" | "onMouseMove" | "onMouseLeave" | "tooltip" | "isInteractive" | "data" | "label" | "animate" | "defs" | "role" | "offset" | "borderColor" | "borderWidth" | "margin" | "layout" | "dimensions" | "outerPadding" | "innerPadding" | "valueFormat" | "colors" | "axisTop" | "axisRight" | "axisBottom" | "axisLeft" | "enableGridX" | "gridXValues" | "enableGridY" | "gridYValues" | "theme" | "enableLabels" | "labelSkipWidth" | "labelSkipHeight" | "labelTextColor" | "motionConfig" | "layers">) => JSX.Element;
+//# sourceMappingURL=ResponsiveMarimekko.d.ts.map

@@ -1,0 +1,3 @@
+import { SvgProps } from './types';
+export declare const ResponsiveSunburst: <RawDatum>(props: Pick<SvgProps<RawDatum>, "fill" | "data" | "id" | "value" | "onClick" | "onMouseEnter" | "onMouseLeave" | "onMouseMove" | "borderWidth" | "borderColor" | "animate" | "motionConfig" | "layers" | "margin" | "cornerRadius" | "colors" | "childColor" | "enableSliceLabels" | "sliceLabel" | "sliceLabelsSkipAngle" | "sliceLabelsTextColor" | "role" | "theme" | "isInteractive" | "tooltip" | "valueFormat" | "defs">) => JSX.Element;
+//# sourceMappingURL=ResponsiveSunburst.d.ts.map

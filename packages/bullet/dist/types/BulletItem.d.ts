@@ -1,0 +1,3 @@
+import { BulletItemProps } from './types';
+export declare const BulletItem: ({ id, scale, layout, reverse, axisPosition, x, y, width, height, title, titlePosition, titleAlign, titleOffsetX, titleOffsetY, titleRotation, rangeComponent, rangeColors, ranges, measureComponent, measureHeight, measureColors, measures, markerComponent, markerColors, markerHeight, markers, onRangeClick, onMeasureClick, onMarkerClick, }: BulletItemProps) => JSX.Element;
+//# sourceMappingURL=BulletItem.d.ts.map
