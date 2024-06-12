@@ -54,7 +54,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^5.0.0",
     "jest": "^26.0.1",
     "jsdom": "^16.2.2",
     "lerna": "^3.22.1",
